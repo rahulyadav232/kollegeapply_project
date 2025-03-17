@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Harvard University", "category": "Universities" },
+    { "id": 2, "name": "Stanford University", "category": "Universities" },
+    { "id": 3, "name": "MIT", "category": "Universities" },
+    { "id": 4, "name": "IIT Delhi", "category": "Colleges" },
+    { "id": 5, "name": "IIM Bangalore", "category": "Colleges" },
+    { "id": 6, "name": "JEE Main", "category": "Exams" },
+    { "id": 7, "name": "NEET", "category": "Exams" },
+    { "id": 8, "name": "Data Science", "category": "Courses" },
+    { "id": 9, "name": "MBA", "category": "Courses" },
+    { "id": 10, "name": "Latest Education Trends", "category": "News" }
+  ]
